@@ -18,8 +18,8 @@
 #### Usage
 ##### Get the repository
 ```bash
-git clone
-cd 
+git clone https://github.com/NajlaBH/snaketmpl.git
+cd snaketmpl
 ```
 ##### Run Snakemake
 ```bash
