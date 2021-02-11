@@ -1,0 +1,21 @@
+#
+# Config by default
+# Author: NajlaBH
+# version 0.1.0
+#
+
+####################
+#  Global Manage
+####################
+project-name: myproject
+#Needed for gettext getplot getshape scripts
+url-name: https://towardsdatascience.com/create-word-cloud-into-any-shape-you-want-using-python-d0b88834bc32
+#Needed for getplot script
+pathout-txt: 'tests/wordcloud/article.txt'
+pathout-png: 'tests/wordcloud/article.png'
+#Needed for getshape script
+pathin-shape: 'tests/wordcloud/shaps/mask_shape.png'
+pathout-shape: 'tests/wordcloud/shape.png'
+
+
+core: 2

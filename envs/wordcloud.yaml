@@ -1,0 +1,8 @@
+name: snaketmpl
+channels:
+          - conda-forge
+          - defaults
+dependencies:
+          - wordcloud==1.8.1
+          - matplotlib==3.3.4
+          - newspaper3k==0.2.8
